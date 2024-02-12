@@ -1,4 +1,4 @@
-#2
+#2Get the marks of 5 subjects at the command line and display the total of marks, and percentage.
 import sys
 a=int(sys.argv[1])
 b=int(sys.argv[2])
