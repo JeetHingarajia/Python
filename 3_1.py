@@ -1,4 +1,4 @@
-#1.
+#1.Get the basic salary from the employee and display the net salary by calculating the following conditions: Applicable TA 4%, DA 30%, HRA 15% on basic salary. Applicable 3% tax, 12% PF on basic salary.
 Bsalary=int(input('Enter Basic Salary : '))
 print(Bsalary)
 
